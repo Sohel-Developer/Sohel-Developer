@@ -11,13 +11,13 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [React-Project](#)
+- 🔭 I’m currently working on [React-Project](waiting)
 
 - 🌱 I’m currently learning **React-Native**
 
-- 🤝 I’m looking for help with [Nothing](#)
+- 🤝 I’m looking for help with [Nothing](Nothing)
 
 - 👨‍💻 All of my projects are available at [soheldeveloper.netlify.app](soheldeveloper.netlify.app)
 
@@ -27,13 +27,9 @@
 
 - 📫 How to reach me **sohel.webdevoloper@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [#](waiting...)
 
 - ⚡ Fun fact **I think I am curious**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
