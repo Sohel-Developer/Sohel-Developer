@@ -11,6 +11,32 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on [React-Project](#)
+
+- 🌱 I’m currently learning **React-Native**
+
+- 🤝 I’m looking for help with [Nothing](#)
+
+- 👨‍💻 All of my projects are available at [soheldeveloper.netlify.app](soheldeveloper.netlify.app)
+
+- 📝 I regularly write articles on [https://sohel-developer.medium.com/](https://sohel-developer.medium.com/)
+
+- 💬 Ask me about **Raect**
+
+- 📫 How to reach me **sohel.webdevoloper@gmail.com**
+
+- 📄 Know about my experiences [#](#)
+
+- ⚡ Fun fact **I think I am curious**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sohel-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sohel-developer" height="30" width="40" /></a>
