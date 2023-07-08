@@ -17,7 +17,7 @@
 
 📚 When I'm not coding, you can find me exploring new tech blogs, contributing to open-source projects, or honing my design skills. I believe in continuous learning and enjoy collaborating with other developers to solve challenging problems.
 
-📫 Let's connect! Feel free to reach out to me via email at [your@email.com] or find me on LinkedIn [insert LinkedIn profile URL]. I'm always open to new opportunities and exciting projects.
+📫 Let's connect! Feel free to reach out to me via email at [sohel.webdevoloper@gmail.com] or find me on LinkedIn [LinkedIN](https://www.linkedin.com/in/sohel-developer/)]. I'm always open to new opportunities and exciting projects.
 
 🌟 Looking forward to creating exceptional user experiences together! 🌟
 
